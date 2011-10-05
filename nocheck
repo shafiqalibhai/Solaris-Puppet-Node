@@ -1,0 +1,11 @@
+mail=
+instance=overwrite
+partial=nocheck
+runlevel=nocheck
+idepend=nocheck
+space=ask
+setuid=nocheck
+confiict=nocheck
+action=nocheck
+basedir=default
+
